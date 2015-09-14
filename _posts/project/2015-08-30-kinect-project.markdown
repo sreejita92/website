@@ -17,4 +17,4 @@ carousel:
 website: 
 ---
 ####Kinect Project
-This project is exploring applications Microsoft Kinect can be used for. Contact Brandon Dotson at the e-mail address on the right for more info.
+This project is exploring applications Microsoft Kinect can be used for. Contact Brandon Dotson for more info.
