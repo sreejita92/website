@@ -6,21 +6,14 @@ This is the website for the IEEE Illinois Institute of Technology student branch
 
 * [Jekyll](http://jekyllrb.com/), a static site generator
 * [Solid](https://st4ple.github.io/solid-jekyll/), a Bootstrap theme for Jekyll
+* [Liquid](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers), a template engine which was written with very specific requirements
 
 ---
 
-Old README:
-
-## Solid. A Bootstrap theme for Jekyll.
-
-![Screenshot](https://st4ple.github.io/solid-jekyll/assets/img/browser.png)
-
 This is a [Jekyll](http://jekyllrb.com/) port of the [Solid theme](http://www.blacktie.co/2014/05/solid-multipurpose-theme/) by [blacktie.co](http://www.blacktie.co/). Visit the [live demo](https://st4ple.github.io/solid-jekyll/) for a preview. 
 
-##Usage
-This theme can be customized, built and published straight from GitHub, thanks to [GitHub Pages](https://pages.github.com/). A local installation of Jekyll isn't even necessary!
 
-[Fork this repository](https://github.com/st4ple/solid-jekyll/fork) to get started. 
+##Usage
 ####Customize  
 Most general settings and data like site name, colors, address, etc. can be configured and changed right in the main config file: `/_config.yml`
 The content of the Home page can be changed here: `/home.html`
@@ -89,4 +82,62 @@ Of course you can!
 To publish with [GitHub Pages](https://pages.github.com/), simply create a branch called `gh-pages`in your repository. GitHub will build your site automatically and publish it at `http://yourusername.github.io/repositoryname/`.  
 If there are problems with loading assets like CSS files and images, make sure that the `baseurl` in the `_config.yml`is set correctly (it should say `/repositoryname`).
 
-If you want to host your website somewhere else than GitHub (or just would like to customize and build your site locally), please check out the [Jekyll documentation](http://jekyllrb.com/). 
+##Site Map
+```
+. website
+├── _includes
+│   ├── css
+│       ├── style.css
+│   ├── carousel.html
+│   ├── constitutionbylaws.html
+│   ├── footer.html
+│   ├── head.html
+│   ├── header.html
+│   ├── js.html
+│   ├── members.html
+│   ├── nav.html
+│   ├── portfolio.html
+│   ├── sidebar.html
+│   ├── sponsors.html
+│   ├── testimonial.html
+│   ├── wrap.html
+├── _layouts
+│   ├── about.html
+│   ├── contact.html
+│   ├── default.html
+│   ├── index.html
+│   ├── newsletter.html
+│   ├── portfolio.html
+│   ├── post.html
+│   ├── project.html
+│   ├── style.css
+├── _posts
+│   ├── blog
+│       ├── (all posts)
+│   ├── project
+│       ├── (all project descriptions)
+│   ├── question (for FAQ section, currently invisible)
+│       ├── (all questions)
+├── assets
+│   ├── css
+│       ├── images (for layout)
+│   ├── fonts
+│   ├── img
+│       ├── blog
+│       ├── members (executive board only)
+│       ├── project
+│       ├── sponsors
+│   ├── js
+├── .gitignore
+├── CNAME
+├── README.md
+├── _config.yml
+├── about.html
+├── category.html
+├── contact.html
+├── feed.xml
+├── index.html
+├── newsletter.html
+├── project.html
+
+```
