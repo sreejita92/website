@@ -4,8 +4,8 @@
 title: IEEE@IIT
 description: "Illinois Tech's branch of the Institute of Electrical and Electronics Engineers (IEEE)."
 analytics: 
-baseurl: "/website" #important: start with /
-url:"http://srinivasanramaraju.github.io"
+baseurl: "" #important: start with /
+url: "http://ieeeiit.me"
 
 # Build settings
 markdown: kramdown
