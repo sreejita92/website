@@ -84,9 +84,9 @@ members:
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com  
-  - name: Sreeram Haridas
-    position: Industry Relations
-    text: sharida3@hawk.iit.edu
+  - name: Aditya Parakh
+    position: Publicity Chair
+    text: adi@hawk.iit.edu
     img: team04.jpg
     social:
       - title: envelope #use for email address
