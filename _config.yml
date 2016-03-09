@@ -49,24 +49,17 @@ email: ieee@iit.edu
     
 # Members information. Shown on About page.
 members:
-  - name: Panth Shah
+  - name: Mete Morris
     position: President
-    text: pshah80@hawk.iit.edu
+    text: mmorri13@hawk.iit.edu
     img: team01.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
-  - name: Mete Morris
+  - name: Panth Shah
     position: Vice President
-    text: mmorri13@hawk.iit.edu
+    text: pshah80@hawk.iit.edu
     img: team02.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-  - name: Jay Sharma
-    position: Membership Chair
-    text: jsharma3@hawk.iit.edu
-    img: team03.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
@@ -78,7 +71,7 @@ members:
       - title: envelope #use for email address
         url: mailto:name@domain.com
   - name: Viral Mehta
-    position: Program Chair
+    position: Programming Chair
     text: vmehta12@hawk.iit.edu
     img: team04.jpg
     social:
@@ -91,20 +84,63 @@ members:
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com 
-  - name: Natasha Wijoyo
+  - name: Javier Sorribes-Camargo
     position: Webmaster
-    text: nwijoyo@hawk.iit.edu
+    text: jsorribe@hawk.iit.edu
     img: team04.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com      
-  - name: Robert Burke
-    position: IEEE-Chicago Branch Mentor
-    text: robert.burke@culligan.com
+        url: mailto:name@domain.com     
+  - name: Brandon Dotson
+    position: Secretary External
+    text: bdotson@hawk.iit.edu
     img: team04.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com 
+  - name: Burhan Ali
+    position: Secretary Internal
+    text: sali39@hawk.iit.edu
+    img: team04.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com
+  - name: Genevieve Hummel
+    position: Newsletter Editor
+    text: ghummel1@hawk.iit.edu
+    img: team04.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com
+  - name: Nicholas Ma
+    position: Treasurer
+    text: nma4@hawk.iit.edu
+    img: team04.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com
+#IEEE Contacts
+  - name: Charudatta Phatak
+    position: IEEE - Chicago Section Student Activities Chair
+    text: dr.c.phatak@ieee.org
+    img: team04.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com 
+- name: Susanne Tedrick
+    position: IEEE - Chicago Section Student Representative
+    text: susanne.tedrick.us@ieee.org
+    img: team04.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com
+  - name: Robert Burke
+    position: IEEE - Region 4 Student Activities Chair
+    text: robert.burke@ieee.org
+    img: team04.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com
 
 # Clients information. Shown on Home and About pages.
 sponsors:
