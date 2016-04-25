@@ -5,6 +5,8 @@ date:   2015-08-29
 author: Marcel Newman
 categories:
 - project
+status: 
+- vacant
 img: comingsoon.jpg
 thumb: thumb02.jpg
 carousel:
