@@ -12,10 +12,8 @@ carousel:
 - single02.jpg
 - single03.jpg
 client: Wonder Corp.
-website: http://blacktie.co
+website: <!-- http://blacktie.co -- No reason for this link to show up -->
 ---
-####YOUR PROJECT NAME
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+It seems like we need more projects! Maybe you should step up...
 
-####Our Proposal
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Contact the IEEE Projects Chair (<a href="http://ieeeiit.me/about/">contact info</a>) and propose your own project!!! We also have some cool ideas for projects, so you can take over one of those!
