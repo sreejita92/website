@@ -6,7 +6,7 @@ author: Marcel Newman
 categories:
 - project
 status: 
-- vacant
+- off
 img: comingsoon.jpg
 thumb: thumb02.jpg
 carousel:
