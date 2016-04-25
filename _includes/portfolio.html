@@ -2,7 +2,7 @@
     <div class="portfolio-centered">
         {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
         <div class="recentitems portfolio">
-            {% assign sorted_projects (site.categories['project'] | sort:'status') }
+            {% assign sorted_projects (site.categories['project'] | sort:'status') %}
             {% for project in sorted_projects limit:include.limit %}
                 <div class="portfolio-item graphic-design">
                     <div class="he-wrap tpl6">
