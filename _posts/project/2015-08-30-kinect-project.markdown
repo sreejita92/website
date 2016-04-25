@@ -5,6 +5,8 @@ date:   2015-08-30
 leader: "Brandon Dotson"
 categories:
 - project
+status:
+- past
 tags:
 - kinect
 - software
@@ -16,5 +18,6 @@ carousel:
 - cKinect02.jpg
 website: 
 ---
-####Kinect Project
+Kinect Project
+
 This project is exploring applications Microsoft Kinect can be used for. Contact Brandon Dotson for more info.
