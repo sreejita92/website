@@ -2,7 +2,7 @@
 layout: post
 title:  "Open Executive Board Positions!"
 date:   2015-10-08 21:48:00
-author: Natasha Wijoyo
+author: Javier Sorribes
 categories: 
 - announcement
 - blog
