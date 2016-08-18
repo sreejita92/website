@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Open Executive Board Positions!"
-date:   2015-10-08 21:48:00
+date:   2016-08-19 18:50:00
 author: Javier Sorribes
 categories: 
 - announcement
