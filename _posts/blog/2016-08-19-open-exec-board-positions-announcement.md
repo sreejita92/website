@@ -15,7 +15,7 @@ Are you looking to make a difference? Do you want to be part of a great professi
 
 IEEE@IIT is looking to fill these two executive board positions:
 
-- Treasurer
-- Publicity Chair
+  * Treasurer
+  * Publicity Chair
 
 If you or someone you know would be interested (about this or anything else), send us an email at ieee@iit.edu. We can't wait to hear from you!!
