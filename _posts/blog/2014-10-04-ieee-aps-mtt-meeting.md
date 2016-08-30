@@ -5,8 +5,8 @@ date:   2014-10-04
 author: Robert Burke
 categories: 
 - announcement
-- IEEE APS
-- MTT Society
+- ieee aps
+- mtt society
 img: nopicture.jpg
 thumb: nopicture.jpg
 ---
