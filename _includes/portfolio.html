@@ -2,7 +2,7 @@
     <div class="portfolio-centered">
         {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
         <div class="recentitems portfolio">
-            {% for project in (site.categories['project'] | sort:'status') limit:include.limit %}
+            {% for project in (site.categories['project'] | sort:'status') limit:include.limit %}{% unless project.status == "hide" %}
                 <div class="portfolio-item graphic-design">
                     <div class="he-wrap tpl6">
                     <img src="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.img }}" alt="">
@@ -15,7 +15,7 @@
                         </div><!-- he view -->		
                     </div><!-- he wrap -->
                 </div><!-- end col-12 -->
-            {% endfor %}
+            {% endunless %}{% endfor %}
         </div><!-- portfolio -->
     </div><!-- portfolio container -->
 </div><!--/Portfoliowrap -->
