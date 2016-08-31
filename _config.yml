@@ -49,41 +49,41 @@ email: ieee@iit.edu
     
 # Members information. Shown on About page.
 members:
-  - name: Mete Morris
+  - name: Brandon Dotson
     position: President
-    text: mmorri13@hawk.iit.edu
+    text: bdotson@hawk.iit.edu
     img: team01.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
-  - name: Panth Shah
+  - name: Burhan Ali
     position: Vice President
-    text: pshah80@hawk.iit.edu
+    text: sali39@hawk.iit.edu
     img: team02.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
-  - name: Nikita Chandapur
-    position: Project Chair
-    text: nchandap@hawk.iit.edu
-    img: team04.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-  - name: Viral Mehta
-    position: Programming Chair
-    text: vmehta12@hawk.iit.edu
-    img: team04.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com  
   - name: Aditya Parakh
-    position: Publicity Chair
+    position: Projects Chair
     text: adi@hawk.iit.edu
     img: team04.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com 
+        url: mailto:name@domain.com
+#  - name: no_name
+#    position: Programming Chair
+#    text: no_email@hawk.iit.edu
+#    img: team04.jpg
+#    social:
+#      - title: envelope #use for email address
+#        url: mailto:name@domain.com  
+#  - name: no_name
+#    position: Publicity Chair
+#    text: no_email@hawk.iit.edu
+#    img: team04.jpg
+#    social:
+#      - title: envelope #use for email address
+#        url: mailto:name@domain.com 
   - name: Javier Sorribes-Camargo
     position: Webmaster
     text: jsorribe@hawk.iit.edu
@@ -91,16 +91,16 @@ members:
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com     
-  - name: Brandon Dotson
+  - name: Harish Rammohan
     position: Secretary External
-    text: bdotson@hawk.iit.edu
+    text: hsenthil@hawk.iit.edu
     img: team04.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com 
-  - name: Burhan Ali
+  - name: Aqueel Miqdad
     position: Secretary Internal
-    text: sali39@hawk.iit.edu
+    text: amiqdad@hawk.iit.edu
     img: team04.jpg
     social:
       - title: envelope #use for email address
@@ -112,9 +112,9 @@ members:
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
-  - name: Nicholas Ma
+  - name: Travis Mitchell
     position: Treasurer
-    text: nma4@hawk.iit.edu
+    text: tmitche8@hawk.iit.edu
     img: team04.jpg
     social:
       - title: envelope #use for email address
