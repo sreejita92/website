@@ -7,7 +7,7 @@ categories:
 - announcement
 - blog
 - general
-img: nopicture.jpg
+img: "2016-09-22 GBM.jpeg"
 thumb: nopicture.jpg
 ---
 
