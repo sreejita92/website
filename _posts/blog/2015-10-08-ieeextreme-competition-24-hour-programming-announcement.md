@@ -6,7 +6,7 @@ author: Natasha Wijoyo
 categories: 
 - announcement
 - ieeextreme
-img: ieeextremef15.jpg
+img: ieeextreme_logo.jpg
 thumb: nopicture.jpg
 ---
 

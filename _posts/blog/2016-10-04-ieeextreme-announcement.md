@@ -7,7 +7,7 @@ categories:
 - announcement
 - blog
 - ieeextreme
-img: ieeextremef15.jpg
+img: ieeextreme_logo.jpg
 thumb: nopicture.jpg
 ---
 
