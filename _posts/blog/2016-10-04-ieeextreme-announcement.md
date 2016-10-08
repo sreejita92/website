@@ -18,6 +18,8 @@ There are also various region awards, and students from Illinois Tech have won a
 
 Let's keep the tradition going and win a few more!
 
+<!--more-->
+
 Checkout the flye below for all the info! Feel free to contact Brandon Dotson (bdotson@hawk.iit.edu)  or IEEE Illinois Tech Chapter (ieee@iit.edu) if you have any questions.
 
 Also, deadline for registration is October 14 so register soon!Do send ieee@iit.edu an email once your team is registered. We would like to keep track of all IIT participants.

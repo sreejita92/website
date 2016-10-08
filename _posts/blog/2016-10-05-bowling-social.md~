@@ -15,5 +15,6 @@ thumb: nopicture.jpg
 Hello all! Eta Kappa Nu and IEEE will be hosting their first ever bowling social on Friday, October 7th from 7pm to 9pm at the Bog. Join us to have a great night and get an opportunity to learn more about Eta Kappa Nu while socializing with current members and the executive board.
 
 Free food and drinks will be provided so come in the evening and relax after a long stressful week. Hope to see you all there!
-
-<img src="2016-10-05-bowling.jpg"/>
+<!--more-->
+<br/>
+<img class="img-responsive" src="{{ "/assets/img/blog/" | prepend: site.baseurl }}{{ "2016-10-05-bowling.jpg" }}"/>
