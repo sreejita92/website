@@ -1,16 +1,17 @@
 ---
 layout: project
 title: "COMING SOON"
-date: 2015-08-28
-leader: 
+date: 2015-08-29
+leader:
 contact: 
 times: 
 location: 
 categories:
 - project
 status:
-- hide
+- vacant
 tags: 
+- "hello"
 img: comingsoon.jpg
 thumb: thumb02.jpg
 carousel:

@@ -8,8 +8,7 @@ times: "Fridays 2pm"
 location: "Siegel Hall, Room 103"
 categories:
 - project
-status:
-- current
+status: current
 tags:
 - arduino
 - software

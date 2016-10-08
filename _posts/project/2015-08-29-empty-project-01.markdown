@@ -1,19 +1,22 @@
 ---
 layout: project
-title:  "COMING SOON"
-date:   2015-08-29
-author: Marcel Newman
+title: "COMING SOON"
+date: 2015-08-29
+leader:
+contact: 
+times: 
+location: 
 categories:
 - project
-status: 
+status:
 - vacant
+tags: 
 img: comingsoon.jpg
 thumb: thumb02.jpg
 carousel:
 - single.jpg
 - single02.jpg
 - single03.jpg
-client: Wonder Corp.
 website: <!-- http://blacktie.co -- No reason for this link to show up -->
 ---
 It seems like we need more projects! Maybe you should step up...

@@ -31,7 +31,7 @@ layout: default
             		{{ tag }}
             	{% endif %}
             {% endfor %} </p>
-	    <!--page.website link removed-->
+            <!--<p><b>Link:</b> <a href="{{ page.website }}">{{ page.website }}</a></p>-->
         </div>
     </div><! --/row -->
 </div><! --/container -->
