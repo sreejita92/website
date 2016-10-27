@@ -76,7 +76,14 @@ members:
 #    img: team04.jpg
 #    social:
 #      - title: envelope #use for email address
-#        url: mailto:name@domain.com
+#        url: mailto:name@domain.com  
+#  - name: no_name
+#    position: Publicity Chair
+#    text: no_email@hawk.iit.edu
+#    img: team04.jpg
+#    social:
+#      - title: envelope #use for email address
+#        url: mailto:name@domain.com 
   - name: Javier Sorribes-Camargo
     position: Webmaster
     text: jsorribe@hawk.iit.edu
@@ -111,14 +118,7 @@ members:
     img: team04.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com  
-  - name: Justin Orr
-    position: Publicity Chair
-    text: jorr1@hawk.iit.edu
-    img: team04.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com 
+        url: mailto:name@domain.com
 #IEEE Contacts
   - name: Charudatta Phatak
     position: IEEE - Chicago Section Student Activities Chair
