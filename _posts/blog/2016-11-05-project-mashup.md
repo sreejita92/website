@@ -6,7 +6,7 @@ author: Aditya Parakh
 categories: 
 - announcement
 - blog
-- porjects
+- projects
 img: nopicture.jpg
 thumb: nopicture.jpg
 ---
