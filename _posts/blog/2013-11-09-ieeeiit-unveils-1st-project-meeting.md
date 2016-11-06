@@ -5,7 +5,7 @@ date:   2013-11-09
 author: Vijai
 categories:
 - blog
-- project meeting
+- projects
 img: nopicture.jpg
 thumb: nopicture.jpg
 ---
