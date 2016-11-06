@@ -5,7 +5,7 @@ date:   2013-11-07
 author: Eric Tendian
 categories: 
 - announcement
-- project meeting
+- projects
 img: nopicture.jpg
 thumb: nopicture.jpg
 ---
