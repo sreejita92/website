@@ -5,7 +5,7 @@ date:   2015-09-23 18:35:00
 author: Natasha Wijoyo
 categories: 
 - announcement
-- generalbodymeeting
+- general body meeting
 img: nopicture.jpg
 thumb: nopicture.jpg
 ---
