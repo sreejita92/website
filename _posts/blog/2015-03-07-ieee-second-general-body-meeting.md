@@ -6,7 +6,7 @@ author: Vijai Baskar
 categories: 
 - blog
 - general body meeting
-img: nopicture.jpg
+img: /assets/img/blog/nopicture.jpg
 thumb: nopicture.jpg
 ---
 

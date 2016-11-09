@@ -6,7 +6,7 @@ author: Vijai
 categories: 
 - blog
 - student leadership conference
-img: nopicture.jpg
+img: /assets/img/blog/nopicture.jpg
 thumb: nopicture.jpg
 ---
 

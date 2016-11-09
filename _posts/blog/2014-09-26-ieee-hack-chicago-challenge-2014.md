@@ -7,7 +7,7 @@ categories:
 - announcement
 - event
 - contest
-img: nopicture.jpg
+img: /assets/img/blog/nopicture.jpg
 thumb: nopicture.jpg
 ---
 

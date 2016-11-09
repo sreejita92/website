@@ -5,7 +5,7 @@ date:   2015-04-20
 author: Natasha Wijoyo
 categories: 
 - announcement
-img: nopicture.jpg
+img: /assets/img/blog/nopicture.jpg
 thumb: nopicture.jpg
 ---
 

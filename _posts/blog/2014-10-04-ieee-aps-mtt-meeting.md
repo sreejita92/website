@@ -7,7 +7,7 @@ categories:
 - announcement
 - ieee aps
 - mtt society
-img: nopicture.jpg
+img: /assets/img/blog/nopicture.jpg
 thumb: nopicture.jpg
 ---
 

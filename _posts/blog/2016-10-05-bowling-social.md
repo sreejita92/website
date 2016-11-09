@@ -8,7 +8,7 @@ categories:
 - blog
 - social
 - networking
-img: IEEE&HKN.JPG
+img: /assets/img/blog/IEEE&HKN.JPG
 thumb: nopicture.jpg
 ---
 

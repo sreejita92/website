@@ -8,7 +8,7 @@ categories:
 - guest speaker
 - goldman sachs
 - announcement
-img: nopicture.jpg
+img: /assets/img/blog/nopicture.jpg
 thumb: nopicture.jpg
 ---
 

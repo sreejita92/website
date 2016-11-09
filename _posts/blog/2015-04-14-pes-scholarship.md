@@ -6,7 +6,7 @@ author: Natasha Wijoyo
 categories: 
 - announcement
 - scholarship
-img: nopicture.jpg
+img: /assets/img/blog/nopicture.jpg
 thumb: nopicture.jpg
 ---
 

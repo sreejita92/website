@@ -5,7 +5,7 @@ date:   2014-09-25
 author: Sijia Wu
 categories: 
 - announcement
-img: nopicture.jpg
+img: /assets/img/blog/nopicture.jpg
 thumb: nopicture.jpg
 ---
 

@@ -7,7 +7,7 @@ categories:
 - announcement
 - goldman sachs
 - intel
-img: nopicture.jpg
+img: /assets/img/blog/nopicture.jpg
 thumb: nopicture.jpg
 ---
 

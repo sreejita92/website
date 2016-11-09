@@ -8,7 +8,7 @@ categories:
 - tour
 - s&c
 - event
-img: nopicture.jpg
+img: /assets/img/blog/nopicture.jpg
 thumb: nopicture.jpg
 ---
 

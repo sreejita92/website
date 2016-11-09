@@ -6,7 +6,7 @@ author: Sijia Wu
 categories: 
 - announcement
 - event
-img: nopicture.jpg
+img: /assets/img/blog/nopicture.jpg
 thumb: nopicture.jpg
 ---
 

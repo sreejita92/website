@@ -6,7 +6,7 @@ author: Eric Tendian
 categories: 
 - announcement
 - contest
-img: nopicture.jpg
+img: /assets/img/blog/nopicture.jpg
 thumb: nopicture.jpg
 ---
 

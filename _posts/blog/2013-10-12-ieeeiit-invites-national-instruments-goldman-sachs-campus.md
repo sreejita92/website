@@ -7,7 +7,7 @@ categories:
 - blog
 - national instruments
 - goldman sachs
-img: nopicture.jpg
+img: /assets/img/blog/nopicture.jpg
 thumb: nopicture.jpg
 ---
 

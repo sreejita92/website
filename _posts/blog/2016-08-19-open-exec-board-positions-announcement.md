@@ -7,7 +7,7 @@ categories:
 - announcement
 - blog
 - executive board
-img: nopicture.jpg
+img: /assets/img/blog/nopicture.jpg
 thumb: nopicture.jpg
 ---
 

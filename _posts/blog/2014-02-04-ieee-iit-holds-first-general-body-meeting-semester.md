@@ -7,7 +7,7 @@ categories:
 - blog
 - general body meeting
 - guest speaker
-img: nopicture.jpg
+img: /assets/img/blog/nopicture.jpg
 thumb: nopicture.jpg
 ---
 

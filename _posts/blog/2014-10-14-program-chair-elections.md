@@ -5,7 +5,7 @@ date:   2014-10-14
 author: Eric Tendian
 categories: 
 - announcement
-img: nopicture.jpg
+img: /assets/img/blog/nopicture.jpg
 thumb: nopicture.jpg
 ---
 

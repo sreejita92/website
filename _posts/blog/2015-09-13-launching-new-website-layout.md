@@ -6,7 +6,7 @@ author: Natasha Wijoyo
 categories: 
 - announcement
 - website
-img: nopicture.jpg
+img: /assets/img/blog/nopicture.jpg
 thumb: nopicture.jpg
 ---
 

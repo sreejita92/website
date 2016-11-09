@@ -8,7 +8,7 @@ categories:
 - event
 - contest
 - ieeextreme
-img: nopicture.jpg
+img: /assets/img/blog/nopicture.jpg
 thumb: nopicture.jpg
 ---
 

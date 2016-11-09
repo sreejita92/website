@@ -7,7 +7,7 @@ categories:
 - announcement
 - chicago chapter
 - event
-img: nopicture.jpg
+img: /assets/img/blog/nopicture.jpg
 thumb: nopicture.jpg
 ---
 

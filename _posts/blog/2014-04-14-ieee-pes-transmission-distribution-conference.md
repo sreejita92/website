@@ -6,7 +6,7 @@ author: Eric Tendian
 categories: 
 - announcement
 - conference
-img: nopicture.jpg
+img: /assets/img/blog/nopicture.jpg
 thumb: nopicture.jpg
 ---
 

@@ -8,7 +8,7 @@ categories:
 - event
 - ieeextreme
 - halloween
-img: nopicture.jpg
+img: /assets/img/blog/nopicture.jpg
 thumb: nopicture.jpg
 ---
 

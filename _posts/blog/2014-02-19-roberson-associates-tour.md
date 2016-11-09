@@ -8,7 +8,7 @@ categories:
 - tour
 - event
 - robertson & associates
-img: nopicture.jpg
+img: /assets/img/blog/nopicture.jpg
 thumb: nopicture.jpg
 ---
 
