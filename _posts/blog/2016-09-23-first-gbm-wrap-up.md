@@ -7,7 +7,7 @@ categories:
 - announcement
 - blog
 - general
-img: "/assets/img/blog/2016-09-22 GBM.jpeg"
+img: http://i.imgur.com/R2YD7ZL.jpg
 thumb: nopicture.jpg
 ---
 

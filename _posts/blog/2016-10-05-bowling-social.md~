@@ -19,3 +19,4 @@ Free food and drinks will be provided, so come in the evening and relax after a 
 
 <br/>
 <img class="img-responsive" src="http://i.imgur.com/KH7ikMo.jpg" />
+<!--{{ "/assets/img/blog/" | prepend: site.baseurl }}{{ "2016-10-05-bowling.jpg" }}"-->
