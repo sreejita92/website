@@ -6,6 +6,8 @@ author: Javier Sorribes
 categories: 
 - announcement
 - blog
+- awards
+- chicago chapter
 - contest
 - executive board
 - ieeextreme
