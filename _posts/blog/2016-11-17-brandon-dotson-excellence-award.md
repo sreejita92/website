@@ -16,6 +16,8 @@ Our President, Brandon Dotson, received the Outstanding Senior Member Excellence
 
 <!--more-->
 
+<img src="http://i.imgur.com/VlOTE1f.jpg"/>
+
 This is what the nomination said:
 
 "I was initially going to nominate him as an Outstanding President for his great dedication and vision leading IEEE. He has been able to put together several events: tours, talks, competitions (IEEExtreme on Friday!). He is also truly passionate about this and he is currently leading a project within the organization focused on Arduino.
