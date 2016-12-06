@@ -11,7 +11,7 @@ categories:
 - contest
 - executive board
 - ieeextreme
-img: /assets/img/blog/ieeextreme_logo.jpg
+img: http://i.imgur.com/fg0SYca.jpg
 thumb: nopicture.jpg
 ---
 
