@@ -105,9 +105,9 @@ members:
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
-  - name: Travis Mitchell
+  - name: Sai Ayshwarya Lakshmi
     position: Treasurer
-    text: tmitche8@hawk.iit.edu
+    text: sravichandran@hawk.iit.edu
     img: team04.jpg
     social:
       - title: envelope #use for email address
