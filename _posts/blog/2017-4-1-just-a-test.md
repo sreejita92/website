@@ -6,7 +6,7 @@ author: IEEE PRez
 categories: 
 - blog
 - student speaker
-img: http://i.imgur.com/Crqz6bh.jpg
+img: https://blog.prepscholar.com/hubfs/body_testinprogress.gif
 thumb: nopicture.jpg
 ---
 
