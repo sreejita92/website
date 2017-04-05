@@ -13,7 +13,7 @@ thumb: nopicture.jpg
 
 IEEE@IIT's Executive Board elections are open!! Choose who will be taking the decisions next year to continue IEEE legacy. Please vote for your preferred candidates following the link below (deadline <strong>April 11th at 11:59PM</strong>):
 
-<a href="bit.ly/IEEEIITElections">bit.ly/IEEEIITElections</a>
+<a href="https://bit.ly/IEEEIITElections" target="_blank">bit.ly/IEEEIITElections</a>
 <!--more-->
 
 <h3>Candidate Bios</h3>
