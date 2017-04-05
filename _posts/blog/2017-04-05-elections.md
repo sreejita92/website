@@ -18,34 +18,34 @@ IEEE@IIT's Executive Board elections are open!! Choose who will be taking the de
 
 <h3>Candidate Bios</h3>
 
-<h5>Burhan Ali</h5>
+<strong style="text-decoration: underline">Burhan Ali</strong>
 
-<strong>Postion(s) running for: </strong>President, Vice President
+<strong>Position(s) running for: </strong>President, Vice President
 
 <strong>Reasons behind this candidate's nomination: </strong>Burhan is very motivated and motivational. He can definitely make a great leader and take IEEE to new levels.
 
 <strong>Candidate's qualifications: </strong>He has been the vice president for the past year and has excelled at his job. He knows really well the administrative side of IEEE.
 
-<h5>Sai Aishwarya Lakshmi</h5>
+<strong style="text-decoration: underline">Sai Aishwarya Lakshmi</strong>
 
-<strong>Postion(s) running for: </strong>President, Vice President, Treasurer
+<strong>Position(s) running for: </strong>President, Vice President, Treasurer
 
 <strong>Reasons behind this candidate's nomination: </strong>Continuing responsibility as  IEEE @IIT's Treasurer or Vice President
 
 <strong>Candidate's qualifications: </strong>Current Treasurer of IEEE.
 Has experience as Vice President in NCSE and Student Council in Undergraduate institution
 
-<h5>Siddharth Deshpane</h5>
+<strong style="text-decoration: underline">Siddharth Deshpane</strong>
 
-<strong>Postion(s) running for: </strong>Project Chair
+<strong>Position(s) running for: </strong>Project Chair
 
 <strong>Reasons behind this candidate's nomination: </strong>I really think he would do a good job and keep up the good work of the previous chair. 
 
 <strong>Candidate's qualifications: </strong>Most importantly the interest in IEEE and electrical engineering along with management skills well proven in various events.  
 
-<h5>Atul Viswanath</h5>
+<strong style="text-decoration: underline">Atul Viswanath</strong>
 
-<strong>Postion(s) running for: </strong>External Secretary, Publicity Chair, Public Relations
+<strong>Position(s) running for: </strong>External Secretary, Publicity Chair, Public Relations
 
 <strong>Reasons behind this candidate's nomination: </strong>
 <ol>
@@ -66,24 +66,24 @@ Has experience as Vice President in NCSE and Student Council in Undergraduate in
 	<li>I have helped to conduct events at my undergrad college</li>
 </ol>
 
-<h5>Abhishek Kumar</h5>
+<strong style="text-decoration: underline">Abhishek Kumar</strong>
 
-<strong>Postion(s) running for: </strong>Internal Secretary, Treasurer
+<strong>Position(s) running for: </strong>Internal Secretary, Treasurer
 
 <strong>Reasons behind this candidate's nomination: </strong>I am Abhishek Kumar and I can help functioning of the IEEE IIT Chicago even more smoothly and improve coordination among the Executive board members as well as the general members as I've previous experience in doing so and also currently doing so in VVS a student organization on IIT Chicago Campus at present as programming coordinator.
 <strong>Candidate's qualifications: </strong>He is hard-working, dedicated, a team player, can lead too, experience is working in the executive board member team of an organization as currently serving as the programming coordinator in VVS since Jan-2017, where his role is to organize and manage weekly events which see attendance upwards of 100 students, connects well with team members and the attending students alike, which makes him even more suitable for the role of internal secretary.  
 
-<h5>Manideep Penmathsa</h5>
+<strong style="text-decoration: underline">Manideep Penmathsa</strong>
 
-<strong>Postion(s) running for: </strong>Internal Secretary
+<strong>Position(s) running for: </strong>Internal Secretary
 
 <strong>Reasons behind this candidate's nomination: </strong>N/A
 
 <strong>Candidate's qualifications: </strong>Previous experience in executive board. Worked as rock climbing club student advisor. 
 
-<h5>Karthikeyan Kumar</h5>
+<strong style="text-decoration: underline">Karthikeyan Kumar</strong>
 
-<strong>Postion(s) running for: </strong>Vice President, Internal Secretary, Project Chair
+<strong>Position(s) running for: </strong>Vice President, Internal Secretary, Project Chair
 
 <strong>Reasons behind this candidate's nomination: </strong>A level headed, team player who looks at the bigger picture. 
 Having been part of the executive board of organisations, I've an overall understanding on how things function in an organisation, thereby helping me to adapt to situations quickly.
@@ -95,9 +95,9 @@ My role as Project Lead of the Simple Labs, where we help students in learning a
 I was the secretary of the Tennis club, where my duties involved but where not limited to, maintaining the attendance, preparations for the events, ensuring smooth communication amongst the executive board.
 My roles over the years, at various organisations and NGO's provides me with the edge necessary to perform my role to the fullest.
 
-<h5>Brandon Dotson</h5>
+<strong style="text-decoration: underline">Brandon Dotson</strong>
 
-<strong>Postion(s) running for: </strong>External Secretary, Publicity Chair, Public Relations
+<strong>Position(s) running for: </strong>External Secretary, Publicity Chair, Public Relations
 
 <strong>Reasons behind this candidate's nomination: </strong>He has had more than two years of experience to learn the ins and outs of IEEE. He knows what works well and not so well. He no longer has to worry about "growing pains" and knows what needs to be done and how. Most importantly, having him around means that he will be able to guide the next set of board members with his extensive knowledge of IEEE as he transitions toward his own graduation.
 
