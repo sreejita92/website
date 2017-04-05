@@ -26,6 +26,8 @@ IEEE@IIT's Executive Board elections are open!! Choose who will be taking the de
 
 <strong>Candidate's qualifications: </strong>He has been the vice president for the past year and has excelled at his job. He knows really well the administrative side of IEEE.
 
+<br />
+
 <strong style="text-decoration: underline">Sai Aishwarya Lakshmi</strong>
 
 <strong>Position(s) running for: </strong>President, Vice President, Treasurer
@@ -35,6 +37,8 @@ IEEE@IIT's Executive Board elections are open!! Choose who will be taking the de
 <strong>Candidate's qualifications: </strong>Current Treasurer of IEEE.
 Has experience as Vice President in NCSE and Student Council in Undergraduate institution
 
+<br />
+
 <strong style="text-decoration: underline">Siddharth Deshpane</strong>
 
 <strong>Position(s) running for: </strong>Project Chair
@@ -42,6 +46,8 @@ Has experience as Vice President in NCSE and Student Council in Undergraduate in
 <strong>Reasons behind this candidate's nomination: </strong>I really think he would do a good job and keep up the good work of the previous chair. 
 
 <strong>Candidate's qualifications: </strong>Most importantly the interest in IEEE and electrical engineering along with management skills well proven in various events.  
+
+<br />
 
 <strong style="text-decoration: underline">Atul Viswanath</strong>
 
@@ -66,12 +72,16 @@ Has experience as Vice President in NCSE and Student Council in Undergraduate in
 	<li>I have helped to conduct events at my undergrad college</li>
 </ol>
 
+<br />
+
 <strong style="text-decoration: underline">Abhishek Kumar</strong>
 
 <strong>Position(s) running for: </strong>Internal Secretary, Treasurer
 
 <strong>Reasons behind this candidate's nomination: </strong>I am Abhishek Kumar and I can help functioning of the IEEE IIT Chicago even more smoothly and improve coordination among the Executive board members as well as the general members as I've previous experience in doing so and also currently doing so in VVS a student organization on IIT Chicago Campus at present as programming coordinator.
 <strong>Candidate's qualifications: </strong>He is hard-working, dedicated, a team player, can lead too, experience is working in the executive board member team of an organization as currently serving as the programming coordinator in VVS since Jan-2017, where his role is to organize and manage weekly events which see attendance upwards of 100 students, connects well with team members and the attending students alike, which makes him even more suitable for the role of internal secretary.  
+
+<br />
 
 <strong style="text-decoration: underline">Manideep Penmathsa</strong>
 
@@ -80,6 +90,8 @@ Has experience as Vice President in NCSE and Student Council in Undergraduate in
 <strong>Reasons behind this candidate's nomination: </strong>N/A
 
 <strong>Candidate's qualifications: </strong>Previous experience in executive board. Worked as rock climbing club student advisor. 
+
+<br />
 
 <strong style="text-decoration: underline">Karthikeyan Kumar</strong>
 
@@ -94,6 +106,8 @@ My role as the Project Lead inculcated the habit of being a quick thinking, prop
 My role as Project Lead of the Simple Labs, where we help students in learning about embedded programming and robotics, gives me the edge necessary to excel at the job.
 I was the secretary of the Tennis club, where my duties involved but where not limited to, maintaining the attendance, preparations for the events, ensuring smooth communication amongst the executive board.
 My roles over the years, at various organisations and NGO's provides me with the edge necessary to perform my role to the fullest.
+
+<br />
 
 <strong style="text-decoration: underline">Brandon Dotson</strong>
 
