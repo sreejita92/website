@@ -105,7 +105,7 @@ Past leadership experiences include:
 
 <strong>Position(s) running for: </strong>Internal Secretary
 
-<strong>Reasons behind this candidate's nomination: </strong>N/A
+<strong>Reasons behind this candidate's nomination: </strong>I am a third year undergraduate majoring in electrical engineering. I am passionate about electrical engineering and want to experience and learn something new. IEEE is a great platform to connect with fellow ECE majors and learn something from them. I also want to contribute something back to IEEE by helping the Board members in anyway possible.
 
 <strong>Candidate's qualifications: </strong>Previous experience in executive board. Worked as rock climbing club student advisor. 
 
