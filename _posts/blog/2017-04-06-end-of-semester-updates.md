@@ -9,13 +9,22 @@ img: http://i.imgur.com/0cHsRXj.jpg
 thumb: nopicture.jpg
 ---
 
+Learn about the following:
+<ul>
+<li>IEEE Executive Board Elections</li>
+<li>Robosports Competition</li>
+<li>Talk Series</li>
+<li>Third General Body Meeting</li>
+<li>Spring BBQ</li>
+</ul>
+<br />
 <!--more-->
 <center><span style="font-size:18px"><strong>IEEE Executive Board Elections</strong></span></center>
 &nbsp;
 
 <center><img height="239" src="http://i.imgur.com/jzS6g4N.jpg" width="326" /></center>
 <br />
-The IEEE Executive Board elections for the 2017-2018 school year have arrived! Make to submit your votes! <strong>Voting ends on April 11th at 11:59pm. </strong>Vote here: <a href="http://tinyurl.com/ieee-elections-2017" target="_blank">http://tinyurl.com/ieee-elections-2017</a><br />
+The IEEE Executive Board elections for the 2017-2018 school year have arrived! Make sure to submit your votes! <strong>Voting ends on April 11th at 11:59pm. </strong>Vote here: <a href="http://tinyurl.com/ieee-elections-2017" target="_blank">http://tinyurl.com/ieee-elections-2017</a><br />
 &nbsp;
 
 <div id="success">&nbsp;</div>
