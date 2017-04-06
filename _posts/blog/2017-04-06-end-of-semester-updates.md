@@ -13,6 +13,7 @@ thumb: nopicture.jpg
 &nbsp;</h1>
 <br />
 <h1 class="null" style="text-align: center;"><span style="color:#FF0000">IEEE End of the Semester Newsletter!</span></h1>
+<!--more-->
 <center><span style="font-size:18px"><strong>IEEE Executive Board Elections</strong></span></center>
 &nbsp;
 
