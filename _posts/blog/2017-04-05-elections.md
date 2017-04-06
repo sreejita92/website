@@ -96,6 +96,7 @@ Past leadership experiences include:
 <strong>Position(s) running for: </strong>Internal Secretary, Treasurer
 
 <strong>Reasons behind this candidate's nomination: </strong>I am Abhishek Kumar and I can help functioning of the IEEE IIT Chicago even more smoothly and improve coordination among the Executive board members as well as the general members as I've previous experience in doing so and also currently doing so in VVS a student organization on IIT Chicago Campus at present as programming coordinator.
+
 <strong>Candidate's qualifications: </strong>He is hard-working, dedicated, a team player, can lead too, experience is working in the executive board member team of an organization as currently serving as the programming coordinator in VVS since Jan-2017, where his role is to organize and manage weekly events which see attendance upwards of 100 students, connects well with team members and the attending students alike, which makes him even more suitable for the role of internal secretary.  
 
 <br />
