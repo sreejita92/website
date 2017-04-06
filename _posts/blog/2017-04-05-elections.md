@@ -28,7 +28,7 @@ IEEE@IIT's Executive Board elections are open!! Choose who will be taking the de
 
 <br />
 
-<strong style="text-decoration: underline">Sai Aishwarya Lakshmi</strong>
+<strong style="text-decoration: underline">Sai Ayshwarya Lakshmi</strong>
 
 <strong>Position(s) running for: </strong>President, Vice President, Treasurer
 
@@ -39,7 +39,7 @@ Has experience as Vice President in NCSE and Student Council in Undergraduate in
 
 <br />
 
-<strong style="text-decoration: underline">Siddharth Deshpane</strong>
+<strong style="text-decoration: underline">Siddharth Deshpande</strong>
 
 <strong>Position(s) running for: </strong>Project Chair
 
