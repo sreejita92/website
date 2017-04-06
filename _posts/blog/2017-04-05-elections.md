@@ -34,32 +34,24 @@ IEEE@IIT's Executive Board elections are open!! Choose who will be taking the de
 
 <strong>Reasons behind this candidate's nomination: </strong>
 <ol>
-	<li>Motivating, showcases good team spirit and always has the thirst to make a difference.</li>
-	<li>Has successfully governed two organizations as the Vice president and has made a remarkable difference in it.</li>
-	<li>Showcases good leadership skills and determined to change the lives of people who are part of the organization.</li>
-	<li>Has the ability to network with people, hear out their ideas and help them shape those ideas into reality.</li>
-	<li>Has interacted with top-level professionals in her undergraduate institutions and gained knowledge and experience from them.</li>
-	<li>Has networked with top-level professionals int the recent IEEE student leadership conference and can utilize their knowledge and help the organization and the students who are a part of it  gain more recognition than it already has.</li>
-	<li>Has the ability to utilize resources and student potential to the fullest and can take the organization to a higher level.</li>
-	<li>Has been appreciated by many top-level industry professionals for her dedication and work.</li>
+<li>Showcases good team spirit and always has the thirst to make a difference.</li>
+<li>Successfully governed two organizations as the Vice President and has done a remarkable difference.</li>
+<li>Ability to network with people, hear their ideas and help them shape their ideas into reality.</li>
+<li>Interacted with leading industry professionals since 2012.</li>
+<li>Capacity to use resources and help students realize their potential to the fullest.</li>
+<li>Has been appreciated by many professionals and peers for her dedication and hard-work.</li>
 </ol>
 
-<strong>Candidate's qualifications: </strong>Current Treasurer of IEEE.
-Has experience as Vice President in NCSE and Student Council in Undergraduate institution. Has had many leadership careers in the past, with setting up career fairs, organizing technical workshops,bringing in mentors or sponsors, organizing technical symposiums,organizing sports, cultural fests and many other events and competitions.
+<strong>Candidate's qualifications: </strong>
+Held many leadership positions in the past. Experience includes - Organizing job fairs, technical workshops and symposiums, sports and cultural fests. Approaching companies for mentor-ship and sponsorship of events. 
 
-Past leadership experiences at Graduate institution include:
+Past leadership experiences include:
 <ol>
-	<li> Treasurer of IEEE at IIT - Spring 2017 -Present</li>
-</ol>
-Past leadership experiences at undergraduate institution include:
-<ol>
-	<li> Vice President of Student Academic Council 2015-2016</li>
-	<li> Vice President of Network of Computer Science Engineers 2014-2015</li>
-	<li> Student Representative Of Internal Quality Assurance Cell 2014-2016
-   (Only 2 students are selected for this position from an institution of 4500 students)</li>
-	<li> Member of Association of Mathematics(2012-2014)</li>
-	<li>Class Representative (2012-2013)</li>
-	<li> Was a part of the video promotions of the institution</li>
+<li>Treasurer of IEEE at IIT - Spring 2017 -Present</li>
+<li>Vice President of Student Academic Council 2015-2016</li>
+<li>Vice President of Network of Computer Science Engineers 2014-2015</li>
+<li>Student Representative Of Internal Quality Assurance Cell 2014-2016 (Only 2 students are selected for this position from an institution of 4500 students)</li>
+<li>Class Representative (2012-2013)</li>
 </ol>
 
 <br />
