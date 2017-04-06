@@ -17,8 +17,8 @@ Learn about the following:
 <li>Third General Body Meeting</li>
 <li>Spring BBQ</li>
 </ul>
-<br />
 <!--more-->
+<br />
 <center><span style="font-size:18px"><strong>IEEE Executive Board Elections</strong></span></center>
 &nbsp;
 
