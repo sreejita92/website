@@ -9,14 +9,11 @@ img: http://i.imgur.com/0cHsRXj.jpg
 thumb: nopicture.jpg
 ---
 
-<h1><a href="http://ieee.iit.edu/" target="_blank"><img align="none" height="100" src="https://gallery.mailchimp.com/8f0638c241465fc4dfa51a387/images/ieee_email_sig.png" style="width: 600px; height: 100px; margin: 0px;" width="600" /></a><br />
-&nbsp;</h1>
-<br />
 <h1 class="null" style="text-align: center;"><span style="color:#FF0000">IEEE End of the Semester Newsletter!</span></h1>
 <!--more-->
 <center><span style="font-size:18px"><strong>IEEE Executive Board Elections</strong></span></center>
 &nbsp;
-
+<!--more-->
 <center><img height="239" src="http://i.imgur.com/jzS6g4N.jpg" width="326" /></center>
 <br />
 The IEEE Executive Board elections for the 2017-2018 school year have arrived! Make to submit your votes! <strong>Voting ends on April 11th at 11:59pm. </strong>Vote here: <a href="http://tinyurl.com/ieee-elections-2017" target="_blank">http://tinyurl.com/ieee-elections-2017</a><br />
