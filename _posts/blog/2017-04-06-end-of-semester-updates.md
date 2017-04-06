@@ -1,0 +1,236 @@
+---
+layout: post
+title:  "End of Semester Newsletter"
+date:   2017-04-06 10:00:00
+author: Brandon Dotson
+categories: 
+- blog
+img: http://imgur.com/a/YuUwy
+thumb: nopicture.jpg
+---
+
+<h1><a href="http://ieee.iit.edu/" target="_blank"><img align="none" height="100" src="https://gallery.mailchimp.com/8f0638c241465fc4dfa51a387/images/ieee_email_sig.png" style="width: 600px; height: 100px; margin: 0px;" width="600" /></a><br />
+&nbsp;</h1>
+<br />
+<h1 class="null" style="text-align: center;"><span style="color:#FF0000">IEEE End of the Semester Newsletter!</span></h1>
+<center><span style="font-size:18px"><strong>IEEE Executive Board Elections</strong></span></center>
+&nbsp;
+
+<center><img height="239" src="http://i.imgur.com/jzS6g4N.jpg" width="326" /></center>
+<br />
+The IEEE Executive Board elections for the 2017-2018 school year have arrived! Make sure to go to our website to submit your votes! <strong>Voting ends on April 11th at 11:59pm. </strong>Vote here: <a href="http://tinyurl.com/ieee-elections-2017" target="_blank">http://tinyurl.com/ieee-elections-2017</a><br />
+&nbsp;
+<center>Here is a quick list of our candidates:
+<style type="text/css">td
+	{
+    	padding:0 15px 0 15px;
+	}
+</style>
+<table>
+	<tbody>
+		<tr>
+			<td>
+			<div class="freebirdFormviewerViewItemsItemItemHeader">
+			<div class="freebirdFormviewerViewItemsItemItemTitleContainer">
+			<div aria-describedby="i.desc.1643757136" aria-level="2" class="freebirdFormviewerViewItemsItemItemTitle" dir="auto" id="i1" role="heading"><br />
+			<strong><u>President</u> </strong></div>
+			</div>
+			</div>
+
+			<div class="exportLabelWrapper">
+			<div class="docssharedWizToggleLabeledContent">
+			<div class="docssharedWizToggleLabeledPrimaryText"><span class="docssharedWizToggleLabeledLabelText exportLabel freebirdFormviewerViewItemsRadioLabel" dir="auto">Burhan Ali</span></div>
+			</div>
+			</div>
+
+			<div class="docssharedWizToggleLabeledContent">
+			<div class="docssharedWizToggleLabeledPrimaryText"><span class="docssharedWizToggleLabeledLabelText exportLabel freebirdFormviewerViewItemsRadioLabel" dir="auto">Sai Ayshwarya Lakshmi</span><br />
+			&nbsp;
+			<div class="freebirdFormviewerViewItemsItemItemHeader">
+			<div class="freebirdFormviewerViewItemsItemItemTitleContainer">
+			<div aria-describedby="i.desc.1393087874" aria-level="2" class="freebirdFormviewerViewItemsItemItemTitle" dir="auto" id="i13" role="heading"><u><strong>Vice President</strong></u></div>
+
+			<div aria-describedby="i.desc.1393087874 i.err.1393087874" aria-labelledby="i13" aria-required="true" jsaction="keydown: I481le;JIbuQc:JIbuQc;rcuQ6b:rcuQ6b" jscontroller="wPRNsd" jsname="wCJL8" jsshadow="" role="radiogroup"><span class="docssharedWizToggleLabeledLabelText exportLabel freebirdFormviewerViewItemsRadioLabel" dir="auto">Burhan Ali</span></div>
+			</div>
+			</div>
+
+			<div class="exportLabelWrapper">
+			<div class="docssharedWizToggleLabeledContent">
+			<div class="docssharedWizToggleLabeledPrimaryText"><span class="docssharedWizToggleLabeledLabelText exportLabel freebirdFormviewerViewItemsRadioLabel" dir="auto">Sai Ayshwarya Lakshmi</span></div>
+			</div>
+			</div>
+
+			<div class="docssharedWizToggleLabeledContent">
+			<div class="docssharedWizToggleLabeledPrimaryText"><span class="docssharedWizToggleLabeledLabelText exportLabel freebirdFormviewerViewItemsRadioLabel" dir="auto">Karthikeyan Kumar</span><br />
+			&nbsp;
+			<div class="freebirdFormviewerViewItemsItemItemHeader">
+			<div class="freebirdFormviewerViewItemsItemItemTitleContainer">
+			<div aria-describedby="i.desc.1743656021" aria-level="2" class="freebirdFormviewerViewItemsItemItemTitle" dir="auto" id="i28" role="heading"><u><strong>Treasurer</strong></u></div>
+			</div>
+			</div>
+
+			<div class="exportLabelWrapper">
+			<div class="docssharedWizToggleLabeledContent">
+			<div class="docssharedWizToggleLabeledPrimaryText"><span class="docssharedWizToggleLabeledLabelText exportLabel freebirdFormviewerViewItemsRadioLabel" dir="auto">Sai Ayshwarya Lakshmi</span></div>
+			</div>
+			</div>
+
+			<div class="docssharedWizToggleLabeledContent">
+			<div class="docssharedWizToggleLabeledPrimaryText"><span class="docssharedWizToggleLabeledLabelText exportLabel freebirdFormviewerViewItemsRadioLabel" dir="auto">Abhishek Kumar</span></div>
+			</div>
+			&nbsp;
+
+			<div class="freebirdFormviewerViewItemsItemItemHeader">
+			<div class="freebirdFormviewerViewItemsItemItemTitleContainer">
+			<div aria-describedby="i.desc.807775035" aria-level="2" class="freebirdFormviewerViewItemsItemItemTitle" dir="auto" id="i28" role="heading"><u><strong>Projects Chair</strong></u></div>
+			</div>
+			</div>
+
+			<div class="exportLabelWrapper">
+			<div class="docssharedWizToggleLabeledContent">
+			<div class="docssharedWizToggleLabeledPrimaryText"><span class="docssharedWizToggleLabeledLabelText exportLabel freebirdFormviewerViewItemsRadioLabel" dir="auto">Siddharth Deshpande</span></div>
+			</div>
+			</div>
+
+			<div class="docssharedWizToggleLabeledContent">
+			<div class="docssharedWizToggleLabeledPrimaryText"><span class="docssharedWizToggleLabeledLabelText exportLabel freebirdFormviewerViewItemsRadioLabel" dir="auto">Karthikeyan Kumar</span></div>
+			</div>
+			</div>
+			</div>
+			</div>
+			</div>
+			</td>
+			<td>
+			<div class="freebirdFormviewerViewItemsItemItemHeader">
+			<div class="freebirdFormviewerViewItemsItemItemTitleContainer">
+			<div aria-describedby="i.desc.1898774939" aria-level="2" class="freebirdFormviewerViewItemsItemItemTitle" dir="auto" id="i40" role="heading"><br />
+			<u><strong>Internal Secretary</strong></u></div>
+			</div>
+			</div>
+
+			<div class="exportLabelWrapper">
+			<div class="docssharedWizToggleLabeledContent">
+			<div class="docssharedWizToggleLabeledPrimaryText"><span class="docssharedWizToggleLabeledLabelText exportLabel freebirdFormviewerViewItemsRadioLabel" dir="auto">Manideep Verma</span></div>
+			</div>
+			</div>
+
+			<div class="exportLabelWrapper">
+			<div class="docssharedWizToggleLabeledContent">
+			<div class="docssharedWizToggleLabeledPrimaryText"><span class="docssharedWizToggleLabeledLabelText exportLabel freebirdFormviewerViewItemsRadioLabel" dir="auto">Abhishek Kumar</span></div>
+			</div>
+			</div>
+
+			<div class="docssharedWizToggleLabeledContent">
+			<div class="docssharedWizToggleLabeledPrimaryText"><span class="docssharedWizToggleLabeledLabelText exportLabel freebirdFormviewerViewItemsRadioLabel" dir="auto">Karthikeyan Kumar</span><br />
+			&nbsp;
+			<div class="freebirdFormviewerViewItemsItemItemHeader">
+			<div class="freebirdFormviewerViewItemsItemItemTitleContainer">
+			<div aria-describedby="i.desc.1986230210" aria-level="2" class="freebirdFormviewerViewItemsItemItemTitle" dir="auto" id="i55" role="heading"><u><strong>External Secretary</strong></u></div>
+			</div>
+			</div>
+
+			<div class="exportLabelWrapper">
+			<div class="docssharedWizToggleLabeledContent">
+			<div class="docssharedWizToggleLabeledPrimaryText"><span class="docssharedWizToggleLabeledLabelText exportLabel freebirdFormviewerViewItemsRadioLabel" dir="auto">Atul Vishwanath</span></div>
+			</div>
+			</div>
+
+			<div class="docssharedWizToggleLabeledContent">
+			<div class="docssharedWizToggleLabeledPrimaryText"><span class="docssharedWizToggleLabeledLabelText exportLabel freebirdFormviewerViewItemsRadioLabel" dir="auto">Brandon Dotson</span><br />
+			&nbsp;</div>
+			</div>
+			</div>
+			</div>
+
+			<div class="freebirdFormviewerViewItemsItemItemHeader">
+			<div class="freebirdFormviewerViewItemsItemItemTitleContainer">
+			<div aria-describedby="i.desc.1255439936" aria-level="2" class="freebirdFormviewerViewItemsItemItemTitle" dir="auto" id="i79" role="heading"><u><strong>Public Relations</strong></u></div>
+			</div>
+			</div>
+
+			<div class="exportLabelWrapper">
+			<div class="docssharedWizToggleLabeledContent">
+			<div class="docssharedWizToggleLabeledPrimaryText"><span class="docssharedWizToggleLabeledLabelText exportLabel freebirdFormviewerViewItemsRadioLabel" dir="auto">Atul Vishwanath</span></div>
+			</div>
+			</div>
+
+			<div class="docssharedWizToggleLabeledPrimaryText"><span class="docssharedWizToggleLabeledLabelText exportLabel freebirdFormviewerViewItemsRadioLabel" dir="auto">Brandon Dotson</span><br />
+			&nbsp;
+			<div class="freebirdFormviewerViewItemsItemItemHeader">
+			<div class="freebirdFormviewerViewItemsItemItemTitleContainer">
+			<div aria-describedby="i.desc.828770650" aria-level="2" class="freebirdFormviewerViewItemsItemItemTitle" dir="auto" id="i91" role="heading"><u><strong>Publicity Chair</strong></u></div>
+
+			<div class="docssharedWizToggleLabeledPrimaryText"><span class="docssharedWizToggleLabeledLabelText exportLabel freebirdFormviewerViewItemsRadioLabel" dir="auto">Atul Vishwanath</span></div>
+			</div>
+			</div>
+
+			<div data-input="L9xHkb" jsaction="sPvj8e:Gh295d" jscontroller="eFy6Rc" jsname="cnAzRb">
+			<div aria-describedby="i.desc.828770650 i.err.828770650" aria-labelledby="i91" aria-required="true" jsaction="keydown: I481le;JIbuQc:JIbuQc;rcuQ6b:rcuQ6b" jscontroller="wPRNsd" jsname="wCJL8" jsshadow="" role="radiogroup">&nbsp;</div>
+			</div>
+
+			<div class="docssharedWizToggleLabeledPrimaryText"><span class="docssharedWizToggleLabeledLabelText exportLabel freebirdFormviewerViewItemsRadioLabel" dir="auto">Brandon Dotson</span></div>
+			</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</center>
+
+<div id="success">&nbsp;</div>
+&nbsp;
+
+<center><strong><span style="font-size:18px">Robosports Competition</span></strong></center>
+Have you been looking for an opportunity to build a robot? Are you looking to have fun with friends while working to complete challenges? Interested in winning some prizes while enjoying free food? Just looking to try something new? If any of these apply, the Robosports Competition is for you!<br />
+<br />
+The Robosports Competition is a 24-hour event that challenges teams of students with up to five members to use supplied components to create a mini-robot capable of competing in sports-inspired challenges. Students of all majors are encouraged to participate, as resources and helpers will be present to guide those less familiar with microcontrollers, electronics, and other devices.<br />
+<br />
+The event will begin in LS 121 and LS 129 on Saturday, April 15th, at 12pm. There will be prizes for the winners, and food will be provided. However, space is limited. If you are interested, sign up as a team or individually as soon as possible. Individual registrants will be matched with a team.<strong> Registration ends on April 14th at 11:59pm. </strong><br />
+<br />
+Register here: <a href="http://tinyurl.com/ieeerobosports " target="_blank">http://tinyurl.com/ieeerobosports </a><br />
+&nbsp;
+<center><img data-file-id="3583277" height="523" src="https://gallery.mailchimp.com/8f0638c241465fc4dfa51a387/images/53ccdf61-c60b-4908-ac78-4220cb35f27d.jpg" style="border: 0px none; margin: 0px;" width="403" /></center>
+&nbsp;
+
+<center><span style="font-size:18px"><strong>Talk Series</strong></span></center>
+One day of the talk series may be over, but there are still two to go. Join Aqueel and Aditya of the IEEE Executive Board for the remaining two days:
+
+<ol>
+	<li>Getting Prepped for Cracking Hard Technical Interviews <strong>(4/6/17)</strong></li>
+	<li>Top Tips for Following Up and Responding to Offers <strong>(4/13/17)&nbsp;</strong></li>
+</ol>
+&nbsp;
+
+<center><img data-file-id="3569858" height="512" src="https://gallery.mailchimp.com/8f0638c241465fc4dfa51a387/images/32cc16d9-de6f-46a5-aeab-15bfcc6bdee9.jpg" style="border: 0px  ; width: 362px; height: 512px; margin: 0px;" width="362" /></center>
+<br />
+<br />
+&nbsp;
+<center><span style="font-size:18px"><strong>Third General Body Meeting</strong></span></center>
+Join IEEE for its final general body meeting of the semester. Even though we are in the last stretch of the semester, we still have election results and a few events to talk about. The following will be discussed:
+
+<ul>
+	<li>IEEE Executive Board Election Results</li>
+	<li>IEEE Robosports Competition</li>
+	<li>IEEE Annual Spring BBQ</li>
+</ul>
+
+<center><img data-file-id="3583217" height="525" src="https://gallery.mailchimp.com/8f0638c241465fc4dfa51a387/images/b6a95415-cabb-4781-8958-38b1ec85fe45.jpg" style="border: 0px none; margin: 0px;" width="405" /></center>
+&nbsp;
+
+<center><span style="font-size:18px"><strong>Spring BBQ</strong></span></center>
+Last but not least, we have our annual BBQ coming up. For now, this is tentatively set for <strong>April 20, 2017.</strong><br />
+<br />
+&nbsp;
+<center><span style="font-size:14px"><strong>Useful Links</strong></span></center>
+
+<ul id="docs-internal-guid-7a5d224c-438a-5aa0-7a99-78132fd1782b">
+	<li dir="ltr">
+	<p dir="ltr">Student Chapter Website: <a href="http://ieeeiit.me/">http://ieeeiit.me/</a></p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr">Facebook Page: <a href="https://www.facebook.com/IEEEIIT/">https://www.facebook.com/IEEEIIT/</a></p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr">Calendar: <a href="http://tinyurl.com/IEEEIITCalendar">http://tinyurl.com/IEEEIITCalendar</a>/</p>
+	</li>
+</ul>
+If you have any questions, suggestions, or comments, feel free to email us at <a href="mailto:ieee@iit.edu" target="_blank">ieee@iit.edu</a>
