@@ -60,7 +60,7 @@ Past leadership experiences include:
 
 <strong>Position(s) running for: </strong>Project Chair
 
-<strong>Reasons behind this candidate's nomination: </strong>I really think he would do a good job and keep up the good work of the previous chair. 
+<strong>Reasons behind this candidate's nomination: </strong>He is well trained and determined person who puts his maximum effort on what ever job he is entitled for. His lead and actions will reflect on the project. I think he is deserves this position looking at his soft skill and management skills. He is an outstanding performer regardless the role given to him. 
 
 <strong>Candidate's qualifications: </strong>Most importantly the interest in IEEE and electrical engineering along with management skills well proven in various events.  
 
