@@ -34,14 +34,14 @@ IEEE@IIT's Executive Board elections are open!! Choose who will be taking the de
 
 <strong>Reasons behind this candidate's nomination: </strong>
 <ol>
-	<li>Motivating, showcases good team spirit and always has the thirst to make a difference.
-	<li>Has successfully governed two organizations as the Vice president and has made a remarkable difference in it.
-	<li>Showcases good leadership skills and determined to change the lives of people who are part of the organization.
-	<li>Has the ability to network with people, hear out their ideas and help them shape those ideas into reality.
-	<li>Has interacted with top-level professionals in her undergraduate institutions and gained knowledge and experience from them.
-	<li>Has networked with top-level professionals int the recent IEEE student leadership conference and can utilize their knowledge and help the organization and the students who are a part of it  gain more recognition than it already has.
-	<li>Has the ability to utilize resources and student potential to the fullest and can take the organization to a higher level.
-	<li>Has been appreciated by many top-level industry professionals for her dedication and work.
+	<li>Motivating, showcases good team spirit and always has the thirst to make a difference.</li>
+	<li>Has successfully governed two organizations as the Vice president and has made a remarkable difference in it.</li>
+	<li>Showcases good leadership skills and determined to change the lives of people who are part of the organization.</li>
+	<li>Has the ability to network with people, hear out their ideas and help them shape those ideas into reality.</li>
+	<li>Has interacted with top-level professionals in her undergraduate institutions and gained knowledge and experience from them.</li>
+	<li>Has networked with top-level professionals int the recent IEEE student leadership conference and can utilize their knowledge and help the organization and the students who are a part of it  gain more recognition than it already has.</li>
+	<li>Has the ability to utilize resources and student potential to the fullest and can take the organization to a higher level.</li>
+	<li>Has been appreciated by many top-level industry professionals for her dedication and work.</li>
 </ol>
 
 <strong>Candidate's qualifications: </strong>Current Treasurer of IEEE.
@@ -49,17 +49,17 @@ Has experience as Vice President in NCSE and Student Council in Undergraduate in
 
 Past leadership experiences at Graduate institution include:
 <ol>
-	<li> Treasurer of IEEE at IIT - Spring 2017 -Present
+	<li> Treasurer of IEEE at IIT - Spring 2017 -Present</li>
 </ol>
 Past leadership experiences at undergraduate institution include:
 <ol>
-	<li> Vice President of Student Academic Council 2015-2016
-	<li> Vice President of Network of Computer Science Engineers 2014-2015
+	<li> Vice President of Student Academic Council 2015-2016</li>
+	<li> Vice President of Network of Computer Science Engineers 2014-2015</li>
 	<li> Student Representative Of Internal Quality Assurance Cell 2014-2016
-   (Only 2 students are selected for this position from an institution of 4500 students)
-	<li> Member of Association of Mathematics(2012-2014)
-	<li>Class Representative (2012-2013)
-	<li> Was a part of the video promotions of the institution
+   (Only 2 students are selected for this position from an institution of 4500 students)</li>
+	<li> Member of Association of Mathematics(2012-2014)</li>
+	<li>Class Representative (2012-2013)</li>
+	<li> Was a part of the video promotions of the institution</li>
 </ol>
 
 <br />
