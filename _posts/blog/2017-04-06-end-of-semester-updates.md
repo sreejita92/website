@@ -18,7 +18,7 @@ thumb: nopicture.jpg
 
 <center><img height="239" src="http://i.imgur.com/jzS6g4N.jpg" width="326" /></center>
 <br />
-The IEEE Executive Board elections for the 2017-2018 school year have arrived! Make sure to go to our website to submit your votes! <strong>Voting ends on April 11th at 11:59pm. </strong>Vote here: <a href="http://tinyurl.com/ieee-elections-2017" target="_blank">http://tinyurl.com/ieee-elections-2017</a><br />
+The IEEE Executive Board elections for the 2017-2018 school year have arrived! Make to submit your votes! <strong>Voting ends on April 11th at 11:59pm. </strong>Vote here: <a href="http://tinyurl.com/ieee-elections-2017" target="_blank">http://tinyurl.com/ieee-elections-2017</a><br />
 &nbsp;
 
 <div id="success">&nbsp;</div>
