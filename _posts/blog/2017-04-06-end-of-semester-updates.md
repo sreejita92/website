@@ -5,7 +5,7 @@ date:   2017-04-06 10:00:00
 author: Brandon Dotson
 categories: 
 - blog
-img: http://imgur.com/a/YuUwy
+img: http://i.imgur.com/0cHsRXj.jpg
 thumb: nopicture.jpg
 ---
 
