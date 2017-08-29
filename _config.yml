@@ -49,72 +49,58 @@ email: ieee@iit.edu
     
 # Members information. Shown on About page.
 members:
-  - name: Brandon Dotson
+  - name: Burhan Ali
     position: President
-    text: bdotson@hawk.iit.edu
+    text: sali39@hawk.iit.edu
     img: team01.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
-  - name: Burhan Ali
+  - name: Karthikeyan Kumar
     position: Vice President
-    text: sali39@hawk.iit.edu
+    text: kkumar12@hawk.iit.edu
     img: team02.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
-  - name: Aditya Parakh
+  - name: Siddharth Deshpande
     position: Projects Chair
-    text: adi@hawk.iit.edu
+    text: sdeshpande1@hawk.iit.edu
     img: team04.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
-#  - name: no_name
-#    position: Programming Chair
-#    text: no_email@hawk.iit.edu
-#    img: team04.jpg
-#    social:
-#      - title: envelope #use for email address
-#        url: mailto:name@domain.com
-  - name: Javier Sorribes-Camargo
+  - name: Syed Hamdan Sher
     position: Webmaster
-    text: jsorribe@hawk.iit.edu
+    text: ssher1@hawk.iit.edu
     img: team04.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com     
-  - name: Harish Rammohan
+  - name: Brandon Dotson
     position: Secretary External
-    text: hsenthil@hawk.iit.edu
+    text: bdotson@hawk.iit.edu
     img: team04.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com 
-  - name: Aqueel Miqdad
+  - name: Manideep Penmathsa
     position: Secretary Internal
-    text: amiqdad@hawk.iit.edu
+    text: mpenmat1@hawk.iit.edu
     img: team04.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
-  - name: Genevieve Hummel
-    position: Public Relations Chair
-    text: ghummel1@hawk.iit.edu
-    img: team04.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-  - name: Travis Mitchell
+  - name: Abhishek Kumar
     position: Treasurer
-    text: tmitche8@hawk.iit.edu
+    text: akumar69@hawk.iit.edu
     img: team04.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com  
-  - name: Justin Orr
+  - name: Atul Viswanath
     position: Publicity Chair
-    text: jorr1@hawk.iit.edu
+    text: a1@hawk.iit.edu
     img: team04.jpg
     social:
       - title: envelope #use for email address
