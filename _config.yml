@@ -77,23 +77,23 @@ members:
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com     
-  - name: Brandon Dotson
+  - name: Mahendri Ramesh
     position: Secretary External
-    text: bdotson@hawk.iit.edu
+    text: mramesh3@hawk.iit.edu
     img: team04.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com 
-  - name: Manideep Penmathsa
+  - name: Sreejita Bhattacharya
     position: Secretary Internal
-    text: mpenmat1@hawk.iit.edu
+    text: sbhattacharya3@hawk.iit.edu
     img: team04.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
-  - name: Abhishek Kumar
+  - name: Yuzhe Lim
     position: Treasurer
-    text: akumar69@hawk.iit.edu
+    text: ylim@hawk.iit.edu
     img: team04.jpg
     social:
       - title: envelope #use for email address
